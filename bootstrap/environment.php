@@ -12,5 +12,5 @@
 */
 
 $env = $app->detectEnvironment([
-	'local' => ['homestead', 'Anze.local', 'Anzes-MacBook-Pro.local'],
+	'local' => ['homestead'],
 ]);
